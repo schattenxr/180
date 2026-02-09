@@ -17,3 +17,4 @@ const commandFiles = readdirSync('./src/commands').filter(file => file.endsWith(
     }
 	}
   }}
+
