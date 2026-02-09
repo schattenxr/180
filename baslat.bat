@@ -1,0 +1,6 @@
+echo NPM paketleri yukleniyor...
+call npm install
+echo NPM paketleri yuklendi !
+echo main dosyası calistiriliyor...
+node index.js
+pause
